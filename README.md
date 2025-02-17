@@ -12,8 +12,8 @@ Happy Coding!
 
 ## Course Logistics
 
-- **Lectures:** Mondays 2:15-3:45PM CET, Zoom links are posted on Canvas.
-- **Labs:** Mondays 4:15-5:45PM CET, Zoom links are posted on Canvas.
+- **Lectures:** Mondays 2:15-3:45PM CET
+- **Labs:** Mondays 4:15-5:45PM CET
 - **Labs Office Hours:** Tuesday 2:00-3:00PM CET, please send us a corresponding invitation via mail.
 - **Announcements:** All course-related announcements and questions will happen on Canvas.
 
@@ -39,7 +39,7 @@ This table lists all lab session and coding challenge session incl. the launcher
 | -                       | -       | Semester Break                         | -   | -   |
 | Mon, Apr. 14            | **CC  2**   | Status Meeting (How's it going so far?)          | - | - |
 | Mon, Apr. 21            | -       | Public Holiday          | - | - |
-| Mon, Apr. 28            | **Lab 6**   | Attention               | [TBA] | [TBA] |
+| Mon, Apr. 28            | **Lab 6**   | Attention (Self-Study)               | [TBA] | [TBA] |
 | Mon, May. 05            | **Lab 7**   | K-Means, EM Clustering & Iris               | [TBA] | [TBA] |
 | Mon, May. 12            | **Lab 8**   | Autoencoder (Anomaly Detection on tabular data)  | [TBA] | [TBA] |
 | Tue, May. 20            | **CC  3**   | Coding Challenge (Final Session)                             | - | - |
