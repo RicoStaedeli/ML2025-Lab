@@ -41,7 +41,7 @@ This table lists all lab session and coding challenge session incl. the launcher
 | Mon, Apr. 21            | -       | Public Holiday          | - | - |
 | Mon, Apr. 28            | **Lab 6**   | Attention (Self-Study)               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2025-Lab/blob/main/lab_6/gpt.ipynb)  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2025-Lab/main?filepath=lab_6%2gpt.ipynb) |
 | Mon, May. 05            | **Lab 7**   | K-Means, EM Clustering & Iris (Self-Study)              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2025-Lab/blob/main/lab_7/unsupervised.ipynb)  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2025-Lab/main?filepath=lab_7%2unsupervised.ipynb)  |
-| Mon, May. 12            | **Lab 8**   | Autoencoder (Anomaly Detection on tabular data)  | [TBA] | [TBA] |
+| Mon, May. 12            | **Lab 8**   | Autoencoder (Anomaly Detection on tabular data)  | ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/ML2025-Lab/blob/main/lab_8/lab_08.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/ML2025-Lab/main?filepath=lab_8%2lab_08.ipynb) |
 | Tue, May. 20            | **CC  3**   | Coding Challenge (Final Session)                             | - | - |
 
 
